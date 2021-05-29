@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chest_gold",
+    "texture": "fdf29680-a015-4812-b8f9-1beeef4b09b5",
+    "atlas": "",
+    "rect": [
+      38,
+      4,
+      410,
+      488
+    ],
+    "offset": [
+      -13,
+      8
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

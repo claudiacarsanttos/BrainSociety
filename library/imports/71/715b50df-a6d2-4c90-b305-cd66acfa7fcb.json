@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "world_prelude",
+    "texture": "b8e83fd6-5acd-4137-bba5-0846b6737c67",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1525,
+      1013
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1525,
+      1013
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

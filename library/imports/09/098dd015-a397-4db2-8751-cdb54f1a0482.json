@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DeadBush",
+    "texture": "99f8b86c-a527-4f93-838b-f828efd993ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TombStone (2)",
+    "texture": "1f93cb8d-814c-4deb-be7e-e421e871c83d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Walk (8)",
+    "texture": "2535d62a-4a68-41fe-a817-72ae9e290a41",
+    "atlas": "",
+    "rect": [
+      66,
+      6,
+      294,
+      437
+    ],
+    "offset": [
+      5,
+      2.5
+    ],
+    "originalSize": [
+      416,
+      454
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

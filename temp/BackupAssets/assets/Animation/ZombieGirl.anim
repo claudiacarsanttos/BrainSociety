@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ZombieGirl",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 38,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9bac9d35-8487-4c29-a2d5-72721721a55f"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "648875df-fd6b-46b4-8901-44366dbdca79"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "faabb538-fb71-400e-98af-3496aad38fec"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a86ac7a0-52ae-4b7f-b552-ca619be78b74"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5c1cc9ce-6716-4f36-a7c3-74950e103f41"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "72c44725-5212-4069-8750-6c5f36cc0cd3"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "7c6dad4e-6262-4d58-bf63-35eb73f2741d"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "9f7f4047-da17-4417-8f00-7b7ecaa4b40f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

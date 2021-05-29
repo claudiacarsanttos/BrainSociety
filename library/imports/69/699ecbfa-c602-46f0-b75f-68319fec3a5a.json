@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bone (2)",
+    "texture": "f74cc74b-a613-47c2-bff3-676d82976fa1",
+    "atlas": "",
+    "rect": [
+      49,
+      42,
+      59,
+      53
+    ],
+    "offset": [
+      14.5,
+      -4.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

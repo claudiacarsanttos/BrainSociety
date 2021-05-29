@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DoorLocked",
+    "texture": "e5959d0e-a184-4c81-b0a9-0a3c98cb65a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      464
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      464
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
